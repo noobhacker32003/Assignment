@@ -54,3 +54,38 @@
 .two{
     margin: 50px 240px 0px 150px;
 }
+/* second section */
+
+/* another section */
+.sub{
+    height: 620px;
+}
+.sub{
+    
+    background: rgba(229, 84, 115, 0.05);
+    display: flex;
+
+    
+}
+.hot{
+    margin-left: 100px;
+    margin-top: 100px;
+    
+}
+.h-s{
+    padding-bottom: 24px;
+    padding-left: ;
+    color: #272727;
+    font-family: Lato;
+    font-size: 30px;
+    font-weight: 800;
+}
+.p-s{
+    padding-bottom: 24px;
+}
+.h-s >span{
+    color:#E55473 ;
+}
+.tul{
+    margin-left: 300px;
+}
