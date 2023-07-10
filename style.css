@@ -64,28 +64,40 @@
     
     background: rgba(229, 84, 115, 0.05);
     display: flex;
+    align-items: center;
 
     
 }
 .hot{
     margin-left: 100px;
-    margin-top: 100px;
+    margin-top: 60px;
+
     
 }
 .h-s{
     padding-bottom: 24px;
-    padding-left: ;
+    padding-left: 320px;
     color: #272727;
     font-family: Lato;
-    font-size: 30px;
+    font-size: 40px;
     font-weight: 800;
 }
 .p-s{
     padding-bottom: 24px;
+    margin-left: 300px;
+    width: 550px;
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
 }
 .h-s >span{
     color:#E55473 ;
 }
 .tul{
-    margin-left: 300px;
+    margin-left: 250px;
+}
+.btnt{
+    margin-left: 500px;
 }
