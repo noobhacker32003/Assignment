@@ -230,3 +230,43 @@
     font-weight: 400;
     margin-right: 15px;
 }
+.shop{
+    background: #111010;
+    width: 1922px;
+    height: 449px;
+    margin-top: 80px;
+}
+.h-last{
+    text-align: center;
+    margin-left: 0px;
+    padding-top: 100px;
+    color: #FFFFFF;
+    font-family: Lato;
+    font-size: 48px;
+    font-weight: 800;
+
+}
+.p-last{
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 20px;
+    color: rgba(255, 255, 255, 0.90);
+    font-family: Lato;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    display: flex;
+    margin-bottom: 20px;
+    flex-direction: column;
+
+}
+.sp{
+    color: #E55473;
+}
+.footer{
+    color: rgba(255, 255, 255, 0.40);
+    text-align: center;
+    font-family: Lato;
+    font-size: 16px;
+    margin-left: 800px;
+}
