@@ -125,7 +125,6 @@
     font-family: Lato;
     font-size: 24px;
     font-weight: 700;
-    line-height: 35px;
     margin-bottom: 100px;
 }
 #pink{
@@ -198,7 +197,7 @@
 }
 .latest{
     text-align: center;
-    margin-top: 50px;
+    margin-top: 80px;
     background-image: url("Rectangle\ 9.png");
     width: 1430px;
     height: 350px;   
@@ -269,4 +268,50 @@
     font-family: Lato;
     font-size: 16px;
     margin-left: 800px;
+}
+.my-task{
+    width: 1430px;
+    height: 600px; 
+    background: #d7e2d4;
+    margin-left: 200px;
+    text-align: center;
+    margin-bottom: 80px;
+}
+#m-id{
+    color: #272727;
+    font-family: Lato;
+    font-size: 40px;
+    font-weight: 800;
+    padding-top: 20px;
+    padding-bottom: 16px;
+
+}
+.i-mg{
+    display: flex;
+    margin-left: 150px;
+    gap: 50px;
+    
+}
+.txt{
+    margin-top: 20px;
+    display: flex;
+    margin-left: 50px;
+    gap: 30px;
+
+}
+.li3{
+    width: 400px;
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 24px;
+    font-weight: 700;
+}
+.li3 >a{
+    text-decoration: none;
+    color: #E55473;
+}
+.li3>a:hover{
+    color: blue;
+    text-decoration: underline;
 }
